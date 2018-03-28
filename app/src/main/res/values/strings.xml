@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+    <string name="twitch">Open Twitter</string>
+    <string name="learn">Watch Video</string>
+    <string name="starts">Downloading…</string>
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+    <string name="saved">Downloads</string>
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+</resources>
